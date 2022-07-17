@@ -6,10 +6,10 @@ The focus of the course will be on the practical aspects of quantum computing an
 
 Individual links to each video recording are provided below.
 
-- Lecture 1/7, Friday 6 November: Introduction
-- Lecture 2/7, Friday 13 November: One and two-qubit systems (Part 1)
-- Lecture 3/7, Friday 20 November: One and two-qubit systems (Part 2)
-- Lecture 4/7, Friday 27 November: Multiqubit systems
-- Lecture 5/7, Friday 4 December: Quantum algorithms for combinatorial optimization
-- Lecture 6/7, Friday 11 December: Quantum variational algorithms and quantum machine learning
-- Lecture 7/7, Friday 18 December: The future of quantum computing 
+- Lecture 1/7, Friday 6 November: [Introduction](https://indico.cern.ch/event/970903/)
+- Lecture 2/7, Friday 13 November: [One and two-qubit systems (Part 1)](https://indico.cern.ch/event/970904/)
+- Lecture 3/7, Friday 20 November: [One and two-qubit systems (Part 2)](https://indico.cern.ch/event/970905/)
+- Lecture 4/7, Friday 27 November: [Multiqubit systems](https://indico.cern.ch/event/970906/)
+- Lecture 5/7, Friday 4 December: [Quantum algorithms for combinatorial optimization](https://indico.cern.ch/event/970907/)
+- Lecture 6/7, Friday 11 December: [Quantum variational algorithms and quantum machine learning](https://indico.cern.ch/event/970908/)
+- Lecture 7/7, Friday 18 December: [The future of quantum computing](https://indico.cern.ch/event/970909/)
