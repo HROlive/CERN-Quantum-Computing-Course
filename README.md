@@ -1,6 +1,8 @@
 # Quantum-Computing-Course-CERN
 
-![Banner](banner.jpg)
+<p align="center">
+  <img src="banner.jpg" width=700>
+</p>
 
 Quantum computing is one the most promising new trends in information processing. In this course, we will introduce from scratch the basic concepts of the quantum circuit model (qubits, gates and measures) and use them to study some of the most important quantum algorithms and protocols, including those that can be implemented with a few qubits (BB84, quantum teleportation, superdense coding...) as well as those that require multi-qubit systems (Deutsch-Jozsa, Grover, Shor..).
 
