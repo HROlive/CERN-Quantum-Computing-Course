@@ -13,22 +13,22 @@ The focus of the course will be on the practical aspects of quantum computing an
 Individual links to all the materials needed for each lesson, including lesson recordings and practical exercises, can be found bellow:
 
 - Lecture 1/7: [Introduction](https://indico.cern.ch/event/970903/)
-What is quantum computing? Applications of quantum computing. Hardware and software for quantum computing. Elements of the quantum circuit model. Introduction to the IBM Quantum Experience
+  - What is quantum computing? Applications of quantum computing. Hardware and software for quantum computing. Elements of the quantum circuit model. Introduction to the IBM Quantum Experience
 
 - Lecture 2/7: [One and two-qubit systems (Part 1)](https://indico.cern.ch/event/970904/)
-What is quantum computing? Applications of quantum computing. Hardware and software for quantum computing. Elements of the quantum circuit model. Introduction to the IBM Quantum Experience
+  - What is quantum computing? Applications of quantum computing. Hardware and software for quantum computing. Elements of the quantum circuit model. Introduction to the IBM Quantum Experience
 
 - Lecture 3/7: [One and two-qubit systems (Part 2)](https://indico.cern.ch/event/970905/)
-Quantum teleportation. Superdense coding. Deutsch algorithm.   
+  - Quantum teleportation. Superdense coding. Deutsch algorithm.   
 
 - Lecture 4/7: [Multiqubit systems](https://indico.cern.ch/event/970906/)
-Multiqubit gates and universality. Quantum parallelism. Deutsch-Jozsa algorithm. Grover algorithm. Shor algorithm. HHL algorithm.
+  - Multiqubit gates and universality. Quantum parallelism. Deutsch-Jozsa algorithm. Grover algorithm. Shor algorithm. HHL algorithm.
 
 - Lecture 5/7: [Quantum algorithms for combinatorial optimization](https://indico.cern.ch/event/970907/)
-Quantum adiabatic computing and quantum annealing. Introduction to D-Wave Leap. Quantum Approximate Optimization Algorithm. 
+  - Quantum adiabatic computing and quantum annealing. Introduction to D-Wave Leap. Quantum Approximate Optimization Algorithm. 
 
 - Lecture 6/7: [Quantum variational algorithms and quantum machine learning](https://indico.cern.ch/event/970908/)
-Variational Quantum Eigensolver. Introduction to Quantum Machine Learning (QSVM, QGAN, Quantum Classifiers...)
+  - Variational Quantum Eigensolver. Introduction to Quantum Machine Learning (QSVM, QGAN, Quantum Classifiers...)
 
 - Lecture 7/7: [The future of quantum computing](https://indico.cern.ch/event/970909/)
-Quantum error correction. What is Quantum Supremacy? Prospects for quantum computing. 
+  - Quantum error correction. What is Quantum Supremacy? Prospects for quantum computing. 
